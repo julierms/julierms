@@ -1,8 +1,18 @@
-# Hi, I'm Julie Ann Ramos
+# Hi, I'm **Julie Ann Ramos**
 
+---
 
 # About me:
-# I’m a student aspiring to build a career in cybersecurity, with a solid foundation in web technologies including JavaScript, HTML, and CSS. I’m passionate about learning how systems work, identifying vulnerabilities, and developing secure, reliable solutions as I continue to grow my technical skills.
+# Aspiring to build a career in cybersecurity, with a solid foundation in web technologies including JavaScript, HTML, and CSS. I’m passionate about learning how systems work, identifying vulnerabilities, and developing secure, reliable solutions as I continue to grow my technical skills.
 
-# Experiences:
-# - HTML, JavaScript, CSS, 
+### Technical Skills:
+# - HTML, JavaScript, CSS
+
+### Certifications:
+# - PromineoTech Front End Software Engineer Certification
+# - Google "Foundations of Cybersecurity" Certification
+# - Google "Connect and Protect: Networks and Network Security" Certification
+# - Google "Play It Safe: Manage Security Risks" Certification
+
+### Projects:
+# https://github.com/julierms
