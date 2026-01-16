@@ -2,16 +2,15 @@
 
 <h3 align="center"><img width="401" height="507" alt="Image" src="https://github.com/user-attachments/assets/2380949a-d0c0-4235-96bb-da21ceca968a" /></h3>
 
-<h3 align="center">Aspiring to build a career in CyberSecurity. I’m passionate about learning how systems work, identifying vulnerabilities, and developing secure, reliable solutions as I continue to grow my technical skills.</h3>
+<h3 align="center">Aspiring to build a career in CyberSecurity. I’m passionate about learning how systems work, identifying vulnerabilities, and developing secure, reliable solutions as I continue to grow my technical skills.
+🖥️ I’m currently working on **obtaining my CompTIA A+ & CompTIA Security+** </h3>
 
-<h4 align="center">🖥️ I’m currently working on **obtaining my CompTIA A+ & CompTIA Security+**</h4>
-
-# **💡 Technical Skills**
+<h3 align="left">💡 Technical Skills</h3>
 - HTML
 - JavaScript
 - CSS
 
-# **📜 Certifications**
+<h3 align="left">📜 Certifications </h3>
 - PromineoTech Front End Software Engineer Certification
 - Google "Foundations of Cybersecurity" Certification
 - Google "Connect and Protect: Networks and Network Security" Certification
